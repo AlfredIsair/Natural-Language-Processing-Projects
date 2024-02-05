@@ -23,7 +23,7 @@
 - **Description**: The Patient Urgency Classifier project utilizes BioBERT for classifying the urgency level of patient-related texts. It aims to assist in prioritizing and responding to urgent medical cases.
   
 ## Text-Summarization-Using-Langchain
-- **Description**: This project focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of clinical texts for efficient information retrieval.
+- **Description**: This project focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of documents/texts for efficient information retrieval.
 
 
 ## License
