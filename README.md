@@ -24,9 +24,9 @@
   
 ## Text-Summarization-Using-Langchain
 - **Description**: This project focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of documents/texts for efficient information retrieval.
-- 
+ 
 - ## Keyword Extraction
-- **Description**: This project focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of documents/texts for efficient information retrieval.
+- **Description**: 
 
 
 ## License
