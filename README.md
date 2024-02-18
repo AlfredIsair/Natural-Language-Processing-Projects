@@ -23,10 +23,10 @@
 - **Description**: The Patient Urgency Classifier project utilizes BioBERT for classifying the urgency level of patient-related texts. It aims to assist in prioritizing and responding to urgent medical cases.
   
 ## Text-Summarization-Using-Langchain
-- **Description**: This project focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of documents/texts for efficient information retrieval.
+- **Description**: This repository focuses on text summarization using Langchain. It aims to automatically generate concise and informative summaries of documents/texts for efficient information retrieval.
  
 - ## Keyword Extraction
-- **Description**: 
+- **Description**:This repository hosts a Python-based Keyword Extraction Tool built using IPython widgets and Spark NLP. The tool leverages the YAKE (Yet Another Keyword Extractor) algorithm, providing users with an intuitive interface to input text and extract relevant keywords. The extracted keywords are displayed alongside the input text, with highlighting for easy identification. This tool is useful for tasks such as information retrieval, document summarization, and content categorization in natural language processing (NLP) applications. 
 
 
 ## License
